@@ -1,0 +1,15 @@
+body
+{
+    color :grey;
+    background-color: lightpink;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_object, #result_object_accuracy, #result_object_name
+{
+    color:mediumorchid;
+}
